@@ -1,0 +1,958 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.6 474850e8",
+  "osm3s": {
+    "timestamp_osm_base": "2020-10-29T15:37:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 4043208482,
+      "lat": 37.3899814,
+      "lon": 46.2296908,
+      "tags": {
+        "addr:city": "مراغه",
+        "name": "فروشگاه اوبا",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4743373423,
+      "lat": 37.3910296,
+      "lon": 46.2307944,
+      "tags": {
+        "name": "جعفر  زاده  .اوراق",
+        "shop": "car_parts"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5079455826,
+      "lat": 37.3900947,
+      "lon": 46.2262727,
+      "tags": {
+        "name": "فروشگاه تای سیز",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5296245757,
+      "lat": 37.3937613,
+      "lon": 46.2395319,
+      "tags": {
+        "addr:city": "مراغه",
+        "addr:street": "خواجه نصیر جنوبی",
+        "name": "گالری رویال",
+        "name:en": "Royal Gallery",
+        "shop": "cosmetics"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5664277626,
+      "lat": 37.3860756,
+      "lon": 46.2363435,
+      "tags": {
+        "addr:city": "مراغه",
+        "addr:street": "شهید بهشتی",
+        "alt_name": "گالری طلای عماد باقرپور",
+        "name": "گالری طلای عماد",
+        "payment:cash": "yes",
+        "shop": "jewelry",
+        "website": "http://emadjewellery.ir"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5681525722,
+      "lat": 37.3862873,
+      "lon": 46.2469963,
+      "tags": {
+        "addr:street": "خیابان ساسان",
+        "email": "mah.hadi.p@gmail.com",
+        "name": "پرگر",
+        "name:en": "Parghar",
+        "opening_hours": "24/7",
+        "shop": "wine",
+        "website": "http://p15.ir"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5765248553,
+      "lat": 37.3969077,
+      "lon": 46.2405105,
+      "tags": {
+        "addr:street": "چهار راه ١٧ شهریور",
+        "name": "فروشگاه شال و روسری ونوس",
+        "name:en": "Venus Shawl & Scarf Shop",
+        "opening_hours": "Mo-Su 10:30-22:00",
+        "phone": "04137249746",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6397258485,
+      "lat": 37.3864115,
+      "lon": 46.2366568,
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:street": "شهید بهشتی",
+        "name": "بازرگانی پورمسگری",
+        "name:en": "citi pormsari",
+        "opening_hours": "24/7",
+        "shop": "alcohol"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6456367874,
+      "lat": 37.3843944,
+      "lon": 46.2395747,
+      "tags": {
+        "addr:city": "مراغه",
+        "name": "میدان قطب",
+        "opening_hours": "24/7",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6592830593,
+      "lat": 37.3999692,
+      "lon": 46.2305266,
+      "tags": {
+        "addr:city": "مراغه",
+        "addr:street": "یادگاران",
+        "name": "اغذیه فروشی شماره ۱",
+        "opening_hours": "24/7",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6592830594,
+      "lat": 37.4019851,
+      "lon": 46.2313093,
+      "tags": {
+        "addr:city": "مراغه",
+        "addr:street": "یادگاران",
+        "name": "اغذیه فروشی شماره ۲",
+        "opening_hours": "24/7",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6592830595,
+      "lat": 37.4026068,
+      "lon": 46.2319773,
+      "tags": {
+        "addr:city": "مراغه",
+        "addr:street": "یادگاران",
+        "name": "اغذیه فروشی شماره ۳",
+        "opening_hours": "24/7",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7051356622,
+      "lat": 37.3991783,
+      "lon": 46.2414066,
+      "tags": {
+        "addr:city": "مراغه",
+        "addr:street": "خواجه نصیر شمالی",
+        "name": "قنادی گلبن",
+        "opening_hours": "24/7",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+984137225526",
+        "shop": "confectionery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7846401658,
+      "lat": 37.3878231,
+      "lon": 46.2501264,
+      "tags": {
+        "addr:city": "مراغه",
+        "addr:housenumber": "اوحدی",
+        "addr:street": "کمربندی شرقی",
+        "name": "لوازم آرایشی وبهداشتی چشمک",
+        "name:fa": "لوازم آرایشی و بهداشتی چشمک",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "opening_hours:covid19": "open",
+        "operator": "علی جمشیدی",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7950620604,
+      "lat": 37.3891277,
+      "lon": 46.2415135,
+      "tags": {
+        "addr:city": "مراغه",
+        "addr:housenumber": "نصیرآباد",
+        "addr:street": "اوحدی",
+        "internet_access": "no",
+        "name": "Hoseni",
+        "name:fa": "حسینی",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "opening_hours:covid19": "open",
+        "operator": "حسینی",
+        "payment:cash": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8025895987,
+      "lat": 37.3891216,
+      "lon": 46.2414983,
+      "tags": {
+        "addr:street": "اوحدی",
+        "name": "کتابفروشی حسینی",
+        "name:en": "Hoseini bookstore",
+        "name:tr": "Husini kitabxanasi",
+        "opening_hours": "Sa-Th 08:00-21:00",
+        "phone": "+98 41 3723 3730",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 688129952,
+      "nodes": [
+        6451674825,
+        6451674826,
+        6451674827,
+        6451674828,
+        6451674825
+      ],
+      "tags": {
+        "addr:city": "مراغه",
+        "addr:street": "میدان معلم",
+        "building": "yes",
+        "name": "فروشگاه اتکا",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "way",
+      "id": 688134495,
+      "nodes": [
+        6451749021,
+        6451749022,
+        6451749023,
+        6451749024,
+        6451749025,
+        6451749021
+      ],
+      "tags": {
+        "addr:city": "مراغه",
+        "addr:street": "قدس",
+        "building": "yes",
+        "name": "پاساژ امیر",
+        "opening_hours": "sunrise-sunset",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 688134496,
+      "nodes": [
+        6451749026,
+        6451749027,
+        6451749028,
+        6451749029,
+        6451749030,
+        6451749031,
+        6451749032,
+        6451749033,
+        6451749034,
+        6451749035,
+        6451749036,
+        6451749037,
+        6451749026
+      ],
+      "tags": {
+        "addr:city": "مراغه",
+        "building": "yes",
+        "name": "بازار کبود",
+        "name:en": "bazar kabud",
+        "opening_hours": "Sa-Th 08:00-21:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 688139559,
+      "nodes": [
+        6451831681,
+        6451831682,
+        6451831683,
+        6451831684,
+        6451831681
+      ],
+      "tags": {
+        "addr:city": "مراغه",
+        "addr:street": "اوحدی",
+        "building": "yes",
+        "name": "پاساژ اسکان",
+        "name:en": "pasajh eskan",
+        "opening_hours": "Sa-Th 08:00-21:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 688140071,
+      "nodes": [
+        6451838494,
+        6451838495,
+        6451838496,
+        6451838497,
+        6451838498,
+        6451838499,
+        6451838500,
+        6451838501,
+        6451838502,
+        6451838503,
+        6451838494
+      ],
+      "tags": {
+        "addr:city": "مراغه",
+        "addr:street": "اوحدی",
+        "building": "yes",
+        "name": "پاساژ آتی ساز",
+        "name:en": "Atisaz mal",
+        "opening_hours": "Sa-Th 08:00-21:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 688140072,
+      "nodes": [
+        6451838504,
+        6451838505,
+        6451838506,
+        6451838507,
+        6451838508,
+        6451838509,
+        6451838510,
+        6451838511,
+        6451838504
+      ],
+      "tags": {
+        "addr:city": "مراغه",
+        "addr:street": "اوحدی",
+        "building": "yes",
+        "name": "پاساژ جام جم",
+        "name:en": "jame jam mal",
+        "opening_hours": "Sa-Th 08:00-21:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 688141474,
+      "nodes": [
+        6451857732,
+        6451857733,
+        6451857734,
+        6451857735,
+        6451857732
+      ],
+      "tags": {
+        "addr:city": "مراغه",
+        "building": "yes",
+        "opening_hours": "sunrise-sunset",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 688141475,
+      "nodes": [
+        6451857736,
+        6451857737,
+        6451857738,
+        6451857739,
+        6451857740,
+        6451857741,
+        6451857742,
+        6451857751,
+        6451857743,
+        6451857744,
+        6451857736
+      ],
+      "tags": {
+        "addr:city": "مراغه",
+        "building": "yes",
+        "name": "بازار خواجه نصیر",
+        "opening_hours": "sunrise-sunset",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 688141476,
+      "nodes": [
+        6451857745,
+        6451857746,
+        6451857747,
+        6451857748,
+        6451857749,
+        6451857750,
+        6451857751,
+        6451857752,
+        6451857745
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "پاساژ آئینه",
+        "opening_hours": "sunrise-sunset",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 688144751,
+      "nodes": [
+        6451902432,
+        6451902433,
+        6451902434,
+        6451902435,
+        6451902436,
+        6451902437,
+        6451902438,
+        6451902439,
+        6451902432
+      ],
+      "tags": {
+        "addr:city": "مراغه",
+        "addr:street": "شهید بهشتی",
+        "building": "yes",
+        "name": "بازار بزرگ امیرکبیر",
+        "opening_hours": "sunrise-sunset",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "way",
+      "id": 754842059,
+      "nodes": [
+        7051413656,
+        7051413657,
+        7051413658,
+        7051413659,
+        7051413656
+      ],
+      "tags": {
+        "addr:city": "مراغه",
+        "addr:street": "خواجه نصیر شمالی",
+        "building": "yes",
+        "name": "بازار روز",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "mall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6451674825,
+      "lat": 37.3864178,
+      "lon": 46.2275994
+    },
+    {
+      "type": "node",
+      "id": 6451674826,
+      "lat": 37.3865987,
+      "lon": 46.2276832
+    },
+    {
+      "type": "node",
+      "id": 6451674827,
+      "lat": 37.3867034,
+      "lon": 46.2275754
+    },
+    {
+      "type": "node",
+      "id": 6451674828,
+      "lat": 37.3867129,
+      "lon": 46.2273417
+    },
+    {
+      "type": "node",
+      "id": 6451902435,
+      "lat": 37.3855763,
+      "lon": 46.2356056
+    },
+    {
+      "type": "node",
+      "id": 6451902436,
+      "lat": 37.3852978,
+      "lon": 46.2355168
+    },
+    {
+      "type": "node",
+      "id": 6451902437,
+      "lat": 37.3852607,
+      "lon": 46.235643
+    },
+    {
+      "type": "node",
+      "id": 6451749021,
+      "lat": 37.3895179,
+      "lon": 46.2370873
+    },
+    {
+      "type": "node",
+      "id": 6451749022,
+      "lat": 37.3895515,
+      "lon": 46.236918
+    },
+    {
+      "type": "node",
+      "id": 6451749023,
+      "lat": 37.3897743,
+      "lon": 46.2369127
+    },
+    {
+      "type": "node",
+      "id": 6451749024,
+      "lat": 37.3900308,
+      "lon": 46.236955
+    },
+    {
+      "type": "node",
+      "id": 6451749025,
+      "lat": 37.3899845,
+      "lon": 46.2372143
+    },
+    {
+      "type": "node",
+      "id": 6451749026,
+      "lat": 37.389686,
+      "lon": 46.2391509
+    },
+    {
+      "type": "node",
+      "id": 6451749027,
+      "lat": 37.3898332,
+      "lon": 46.2385794
+    },
+    {
+      "type": "node",
+      "id": 6451749028,
+      "lat": 37.3899299,
+      "lon": 46.2386218
+    },
+    {
+      "type": "node",
+      "id": 6451749029,
+      "lat": 37.3899341,
+      "lon": 46.2387011
+    },
+    {
+      "type": "node",
+      "id": 6451749030,
+      "lat": 37.390035,
+      "lon": 46.2387699
+    },
+    {
+      "type": "node",
+      "id": 6451749031,
+      "lat": 37.390056,
+      "lon": 46.2388228
+    },
+    {
+      "type": "node",
+      "id": 6451749032,
+      "lat": 37.3900097,
+      "lon": 46.2389022
+    },
+    {
+      "type": "node",
+      "id": 6451749033,
+      "lat": 37.3899257,
+      "lon": 46.2392673
+    },
+    {
+      "type": "node",
+      "id": 6451749034,
+      "lat": 37.3899341,
+      "lon": 46.2393308
+    },
+    {
+      "type": "node",
+      "id": 6451749035,
+      "lat": 37.3898752,
+      "lon": 46.2393678
+    },
+    {
+      "type": "node",
+      "id": 6451749036,
+      "lat": 37.3898206,
+      "lon": 46.2393096
+    },
+    {
+      "type": "node",
+      "id": 6451749037,
+      "lat": 37.3898164,
+      "lon": 46.2392144
+    },
+    {
+      "type": "node",
+      "id": 6451831681,
+      "lat": 37.3895451,
+      "lon": 46.2399507
+    },
+    {
+      "type": "node",
+      "id": 6451831682,
+      "lat": 37.3893117,
+      "lon": 46.2398979
+    },
+    {
+      "type": "node",
+      "id": 6451831683,
+      "lat": 37.3893237,
+      "lon": 46.239682
+    },
+    {
+      "type": "node",
+      "id": 6451831684,
+      "lat": 37.389595,
+      "lon": 46.2397649
+    },
+    {
+      "type": "node",
+      "id": 6451838494,
+      "lat": 37.3891143,
+      "lon": 46.2390971
+    },
+    {
+      "type": "node",
+      "id": 6451838495,
+      "lat": 37.3883783,
+      "lon": 46.2388159
+    },
+    {
+      "type": "node",
+      "id": 6451838496,
+      "lat": 37.3884481,
+      "lon": 46.2384996
+    },
+    {
+      "type": "node",
+      "id": 6451838497,
+      "lat": 37.3885877,
+      "lon": 46.2385473
+    },
+    {
+      "type": "node",
+      "id": 6451838498,
+      "lat": 37.3886316,
+      "lon": 46.2386151
+    },
+    {
+      "type": "node",
+      "id": 6451838499,
+      "lat": 37.388831,
+      "lon": 46.2385649
+    },
+    {
+      "type": "node",
+      "id": 6451838500,
+      "lat": 37.388837,
+      "lon": 46.2384117
+    },
+    {
+      "type": "node",
+      "id": 6451838501,
+      "lat": 37.3891063,
+      "lon": 46.2384143
+    },
+    {
+      "type": "node",
+      "id": 6451838502,
+      "lat": 37.3891203,
+      "lon": 46.2386904
+    },
+    {
+      "type": "node",
+      "id": 6451838503,
+      "lat": 37.3891661,
+      "lon": 46.2387205
+    },
+    {
+      "type": "node",
+      "id": 6451838504,
+      "lat": 37.3889108,
+      "lon": 46.2400712
+    },
+    {
+      "type": "node",
+      "id": 6451838505,
+      "lat": 37.3886276,
+      "lon": 46.2399783
+    },
+    {
+      "type": "node",
+      "id": 6451838506,
+      "lat": 37.3885618,
+      "lon": 46.2399281
+    },
+    {
+      "type": "node",
+      "id": 6451838507,
+      "lat": 37.3886316,
+      "lon": 46.2398377
+    },
+    {
+      "type": "node",
+      "id": 6451838508,
+      "lat": 37.3885957,
+      "lon": 46.2396243
+    },
+    {
+      "type": "node",
+      "id": 6451838509,
+      "lat": 37.3891083,
+      "lon": 46.2397574
+    },
+    {
+      "type": "node",
+      "id": 6451838510,
+      "lat": 37.3891402,
+      "lon": 46.2398578
+    },
+    {
+      "type": "node",
+      "id": 6451838511,
+      "lat": 37.3891223,
+      "lon": 46.2401314
+    },
+    {
+      "type": "node",
+      "id": 6451857732,
+      "lat": 37.3879215,
+      "lon": 46.2378369
+    },
+    {
+      "type": "node",
+      "id": 6451857733,
+      "lat": 37.3877779,
+      "lon": 46.2378569
+    },
+    {
+      "type": "node",
+      "id": 6451857734,
+      "lat": 37.3877599,
+      "lon": 46.2376159
+    },
+    {
+      "type": "node",
+      "id": 6451857735,
+      "lat": 37.3878736,
+      "lon": 46.2376034
+    },
+    {
+      "type": "node",
+      "id": 6451857736,
+      "lat": 37.3883324,
+      "lon": 46.2379046
+    },
+    {
+      "type": "node",
+      "id": 6451857737,
+      "lat": 37.3882985,
+      "lon": 46.2380502
+    },
+    {
+      "type": "node",
+      "id": 6451857738,
+      "lat": 37.3880451,
+      "lon": 46.2380879
+    },
+    {
+      "type": "node",
+      "id": 6451857739,
+      "lat": 37.3879175,
+      "lon": 46.2375984
+    },
+    {
+      "type": "node",
+      "id": 6451857740,
+      "lat": 37.3883084,
+      "lon": 46.2374477
+    },
+    {
+      "type": "node",
+      "id": 6451857741,
+      "lat": 37.3883523,
+      "lon": 46.237523
+    },
+    {
+      "type": "node",
+      "id": 6451857742,
+      "lat": 37.3883463,
+      "lon": 46.2376988
+    },
+    {
+      "type": "node",
+      "id": 6451857743,
+      "lat": 37.3885817,
+      "lon": 46.2377264
+    },
+    {
+      "type": "node",
+      "id": 6451857744,
+      "lat": 37.3885498,
+      "lon": 46.2379348
+    },
+    {
+      "type": "node",
+      "id": 6451857745,
+      "lat": 37.3886176,
+      "lon": 46.2376059
+    },
+    {
+      "type": "node",
+      "id": 6451857746,
+      "lat": 37.3885219,
+      "lon": 46.2375707
+    },
+    {
+      "type": "node",
+      "id": 6451857747,
+      "lat": 37.3885358,
+      "lon": 46.2374728
+    },
+    {
+      "type": "node",
+      "id": 6451857748,
+      "lat": 37.3885079,
+      "lon": 46.2374678
+    },
+    {
+      "type": "node",
+      "id": 6451857749,
+      "lat": 37.38848,
+      "lon": 46.2375582
+    },
+    {
+      "type": "node",
+      "id": 6451857750,
+      "lat": 37.3883683,
+      "lon": 46.2375707
+    },
+    {
+      "type": "node",
+      "id": 6451857751,
+      "lat": 37.3883573,
+      "lon": 46.2377001
+    },
+    {
+      "type": "node",
+      "id": 6451857752,
+      "lat": 37.3885658,
+      "lon": 46.2377088
+    },
+    {
+      "type": "node",
+      "id": 6451902432,
+      "lat": 37.3856171,
+      "lon": 46.2362084
+    },
+    {
+      "type": "node",
+      "id": 6451902433,
+      "lat": 37.3855726,
+      "lon": 46.2358533
+    },
+    {
+      "type": "node",
+      "id": 6451902434,
+      "lat": 37.385632,
+      "lon": 46.2357739
+    },
+    {
+      "type": "node",
+      "id": 6451902438,
+      "lat": 37.385205,
+      "lon": 46.2356991
+    },
+    {
+      "type": "node",
+      "id": 6451902439,
+      "lat": 37.3851906,
+      "lon": 46.2360203
+    },
+    {
+      "type": "node",
+      "id": 7051413656,
+      "lat": 37.3993466,
+      "lon": 46.2413101
+    },
+    {
+      "type": "node",
+      "id": 7051413657,
+      "lat": 37.3991771,
+      "lon": 46.2412369
+    },
+    {
+      "type": "node",
+      "id": 7051413658,
+      "lat": 37.3994231,
+      "lon": 46.2406051
+    },
+    {
+      "type": "node",
+      "id": 7051413659,
+      "lat": 37.399581,
+      "lon": 46.2407306
+    }
+  ]
+}
