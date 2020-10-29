@@ -2,3 +2,7 @@
 .idea/
 #virtual environment
 venv/
+#migration database
+nearbyshops/migrations
+
+
