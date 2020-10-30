@@ -8,7 +8,7 @@ near by shops maragheh city
 
 
 # OSGeo4W
-The OSGeo4W installer helps to install the PROJ.4, GDAL, and GEOS libraries required by GeoDjango. First, download
+The OSGeo4W installer(https://trac.osgeo.org/osgeo4w/) helps to install the PROJ.4, GDAL, and GEOS libraries required by GeoDjango. First, download
 the OSGeo4W installer, and run it. Select Express Web-GIS Install and click next. In the ‘Select Packages’ list,
 ensure that GDAL is selected; MapServer and Apache are also enabled by default, but are not required by GeoDjango
 and may be unchecked safely. After clicking next, the packages will be automatically downloaded and installed, after
